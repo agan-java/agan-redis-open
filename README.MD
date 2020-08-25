@@ -269,3 +269,30 @@ redis的IM的聊天工具
     6.什么是redis 集群MOVED异常？  
     7.什么是redis 集群ASK异常？  
     8.当redis集群主从切换、哈希槽迁移，spring如何知道？  
+    
+    
+## 更深入学习，请查阅
+一：《Redis一线互联网实战系列课程》  
+1：Redis与SpringBoot一线互联网实战①  
+https://study.163.com/course/introduction/1209618839.htm?share=1&shareId=1028852228  
+
+2：Redis与SpringBoot一线互联网实战 ②  
+https://study.163.com/course/introduction/1209654807.htm?share=1&shareId=1028852228
+
+3：Redis与SpringBoot一线互联网实战③  
+https://study.163.com/course/introduction/1209678836.htm?share=1&shareId=1028852228
+
+4：Redis与SpringBoot一线互联网实战④  
+https://study.163.com/course/introduction/1209750851.htm?share=1&shareId=1028852228
+
+5：Redis与SpringBoot一线互联网实战⑤  
+https://study.163.com/course/introduction/1209867819.htm?share=1&shareId=1028852228
+
+6：Spring源码分析：Spring与Redis网络通信原理剖析⑥  
+https://study.163.com/course/introduction/1210203966.htm?share=1&shareId=1028852228
+
+系列课程打包  
+一：《Java微服务架构攻略》 https://study.163.com/series/1001469005.htm?share=1&shareId=1028852228  
+二：《分布式事务攻略》 https://study.163.com/series/1202843601.htm?share=1&shareId=1028852228  
+三：《Redis一线互联网实战》 https://study.163.com/series/1202877601.htm?share=1&shareId=1028852228  
+四：《java架构师》  https://study.163.com/series/1202811603.htm?share=1&shareId=1028852228  
